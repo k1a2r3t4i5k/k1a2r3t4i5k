@@ -1,5 +1,5 @@
 - 👋 Hi, I’m kartik
-- 👀 I’m interested in ssgmce college.sheagaon
+- 👀 I’m interested in front end web development
 - 🌱 I’m currently learning web developmenet
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email-kartikbhuibhar1001@gmail.com
